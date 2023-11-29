@@ -35,6 +35,9 @@ background:rgb(252, 251, 251)!important;
     height: 150px;
 }
 
+.carousel-inner {
+ border-radius: 70px;
+}
 h2  {
     color: rgb(110, 13, 127);
     font-family: cursive;
@@ -94,6 +97,14 @@ h6 {
     padding-top: 3vh;
     height: 90px;
     font-size: 25px;
-    
+}
 
+.col-md-3 img{
+    width: 110px;
+
+}
+
+.footer {
+
+    height: 100%;
 }
